@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+:root {
+    --laranja: #FF4500;
+    --azul:#202C59;
+    --marrom:#540804;
+    --linho:#fff0b2;
+    --amarelo:#FF9C01;
+
+}
+
+body {
+    background-color: var(--linho);
+  
+}
+
+
+
+
+main h1{
+    color: var(--marrom);font-family: Verdana, Geneva, Tahoma, sans-serif 'Times New Roman', Times, serif; font-size: 2em; line-height: 1.3em
+}
+
+footer{
+    text-align: center;
+    background-color: var(--azul)
+    
+}
+
+form{
+
+    background-color: #FF4500;
+}
+
+ article{
+
+ font-family: Georgia, 'Times New Roman', Times, serif; font-size: 1em; line-height: 1.5em
+}
+section{
+text-align: center;
+}
+
